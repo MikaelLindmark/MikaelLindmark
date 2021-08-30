@@ -1,4 +1,4 @@
-My username is @MikaelLindmark. I am a professional Linux user and a Windows player from Sweden. Sometimes I use "gnurf" as an alter ego.
+My username is @MikaelLindmark.
 
 <!---
 MikaelLindmark/MikaelLindmark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
